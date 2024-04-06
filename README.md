@@ -1,2 +1,2 @@
 # html-summary
-A summary , curricuculum vitae
+A summary , curriculum vitae
